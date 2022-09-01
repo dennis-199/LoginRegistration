@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631979522613",
+    "firebase_url": "https://logingps-ed31f-default-rtdb.firebaseio.com",
+    "project_id": "logingps-ed31f",
+    "storage_bucket": "logingps-ed31f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631979522613:android:74159f83e9b69301dc0f7c",
+        "android_client_info": {
+          "package_name": "com.example.loginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631979522613-0nro0pejaelgehrlclptqt8fcaj7iicp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr6SBNC3mpHVjz-ZQbxxKsYLFgGIik5wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631979522613-0nro0pejaelgehrlclptqt8fcaj7iicp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
